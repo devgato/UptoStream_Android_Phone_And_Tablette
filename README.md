@@ -42,15 +42,15 @@ This app is designed for android smartphones and tablets.
 
 ## Security
 
--Credentials are never stored. Only the token and the cookie necessary for the proper functioning.
+- Credentials are never stored. Only the token and the cookie necessary for the proper functioning.
 
-- virustotal
+- Virustotal
 
 Result : 0/61 of course.
 
 https://www.virustotal.com/gui/file/57455437de886663979365706daeff9607f6d7fe473801cd317d7ffc8f937bec/detection
 
--Checksum
+- Checksum
 
 MD5 Checksum: 53B575066E05C729857C8FA3383F81DD
 
