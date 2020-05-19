@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UptoStream</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="item_default_name">Titre Film</string>
+
+    <string name="setting">Settings</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="title_activity_web_view">WebView</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="connexion">Connexion</string>
+    <string name="siteweb">Site Web</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="logout">Logout</string>
+    <string name="donation">Donation</string>
+    <string name="donationtxt">Find me on github: devgato\nIf you enjoyed this application, you can give me a cup of coffee :)\nMy Bitcoin Adress :</string>
+    <string name="bitcoinadress">3CFtq13BwGky8vKNArVUwG2WMHXGnaLryH</string>
+
+</resources>
