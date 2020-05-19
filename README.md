@@ -16,6 +16,9 @@ This app is designed for android smartphones and tablets.
 
 - Any Ideas ?
 
+## Download
+
+https://uptobox.com/ms3x6owxmtpo
 
 ## Installation
 
