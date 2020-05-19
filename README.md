@@ -1,7 +1,12 @@
-# Uptostream
+# Uptostream Android Phones and Tablettes
 
 The concept of this application is to be able to easily find the videos in your uptobox account and be able to play them.
-This app is designed for android smartphones and tablets.
+This app is designed for android smartphones and tablets.:iphone:
+
+## Condition
+
+I guarantee proper functioning only for premium users.
+This app is not an official uptobox app. It was created by a geek :neckbeard: passionate about development and video streaming :movie_camera:
 
 ## Features
 
@@ -78,9 +83,9 @@ if you still don't trust, you are still free to inspect the code and regenerate 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
-## Donations (Optional)
+## Donations (Optional) :clap:
 
-If you enjoyed this application, you can give me a cup of coffee :)
+If you enjoyed this application :heart_eyes:, you can give me a cup of coffee :coffee:
 
 My Bitcoin Adress:
 
