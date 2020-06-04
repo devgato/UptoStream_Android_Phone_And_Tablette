@@ -23,7 +23,7 @@ This app is not an official uptobox app. It was created by a geek :neckbeard: pa
 
 ## Download
 
-https://uptobox.com/ms3x6owxmtpo
+https://play.google.com/store/apps/details?id=com.devgatoo.uptostreamv2&gl=FR
 
 ## Installation
 
